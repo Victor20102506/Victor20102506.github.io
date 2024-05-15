@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: darkgray;
+    padding: 10px 5%;
+}
+.fortnite{
+    width: 10%;
+}
+.rust{
+    padding: 6%;
+    margin: 70px 20%;
+    top: 15px;
+    left: 75px;
+}
+.rust2{
+    padding: 10px 5%;
+    text-align: center;
+    background-color: darkcyan;
+
+}
+.rust2>*{
+    display: inline-block;
+    width: 450px;
+    font-size: 35px;
+    vertical-align: middle;
+}
